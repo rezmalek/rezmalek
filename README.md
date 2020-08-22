@@ -1,4 +1,4 @@
-### Hi I am RezMalek 👋
+### Hi I am Reza 👋
 
 I always thought my dream was to be a professional photographer, I even started my own photography business and had worked for more than 5 years. But I’d been treading water and I kind of just felt meh. I yearned to learn more, yearned to learn something different.
 
