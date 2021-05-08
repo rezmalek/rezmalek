@@ -8,7 +8,7 @@ I am a highly organized person and love learning new skills. So far I have HTML,
 
 There’s certainly yet more to learn and yet more to build. And for this, I’m very grateful.
 
-- 🔭 I’m currently working on some React projects to hone my skills
-- 👽 24/7 looking for a new position. 
+- 🔭 working on some React projects to hone my skills
+- 👽 24/7 looking for a new position
 
 
