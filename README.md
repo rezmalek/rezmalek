@@ -1,6 +1,6 @@
 ### Hi I am Reza 👋
 
-# Creating is my motivation 💪🏼
+## Creating is my motivation 💪🏼
 
 Since I clicked play on my first HTML tutorial video, I can’t get enough of Front End Development. It calls to all my passions, becaue it incorporates creativity, multi-tasking, and problem solving. Plus, it’s oddly satisfying when you bring ideads to life and build new experiences by writing bunch of codes.  
 
